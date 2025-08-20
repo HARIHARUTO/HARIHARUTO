@@ -18,10 +18,10 @@
 ### 🌐 Connect
 <p align="center">
   <!-- TODO: replace the href values with your real links -->
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://discord.gg/your-id"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://dev.to/your-id"><img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/hariharuto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://twitter.com/HARIHARUTO"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://discord.gg/HARIHARUTO"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://dev.to/hariharuto"><img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
