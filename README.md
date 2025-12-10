@@ -10,7 +10,7 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="44" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,sql" height="44" />
 </p>
 
 ---
