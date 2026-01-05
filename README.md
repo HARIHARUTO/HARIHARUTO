@@ -59,10 +59,31 @@ I focus on:
 - AWS (Basics)
 
 ---
-
 ## 📊 GitHub Stats
 
-![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariharuto&hide=contribs,prs)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=HARIHARUTO&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+      height="160"
+      alt="GitHub Stats"
+    />
+  </a>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARIHARUTO&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=HARIHARUTO&theme=tokyonight&hide_border=true"
+    height="160"
+    alt="Streak Stats"
+  />
+</p>
 
 ## 🎯 Current Focus
 - Advanced **SQL analytics & query optimization**
