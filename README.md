@@ -62,7 +62,7 @@ I focus on:
 
 ## 📊 GitHub Stats
 
-[![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariharuto)](https://github.com/anuraghazra/github-readme-stats)
+![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariharuto&hide=contribs,prs)
 
 ## 🎯 Current Focus
 - Advanced **SQL analytics & query optimization**
