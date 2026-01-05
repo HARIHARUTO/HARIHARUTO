@@ -62,25 +62,7 @@ I focus on:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=HARIHARUTO&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARIHARUTO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=HARIHARUTO&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-</p>
-
----
+[![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariharuto)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎯 Current Focus
 - Advanced **SQL analytics & query optimization**
